@@ -1,0 +1,5 @@
+print('hola mundo')
+print('My name is Valeria Velasco León')
+print('My grade and group is: 9D')
+print('My favorite food are tamales rancheros and picaña')
+print('I like Anime')

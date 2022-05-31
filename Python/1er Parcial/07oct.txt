@@ -1,0 +1,4 @@
+print('aprobados')
+print(5)
+
+mesaje=
